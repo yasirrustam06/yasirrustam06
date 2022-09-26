@@ -1,6 +1,6 @@
-# 🔭    HI I am  👋     `Yasir ALi `
+# 🔭    HI I am  👋     `Yasir ALi ` 
 
-### ❤️  `A passionate Coder... ❤️❤️Stay With Code❤️❤️`
+### ❤️  A passionate Coder... ❤️❤️Stay With Code❤️❤️
 
 
 
