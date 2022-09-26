@@ -1,11 +1,11 @@
-  # `-->> `  🔭    HI I am  👋     `Yasir ALi ` 
+  # `-->> `  🔭    Hi,  i am  👋     `Yasir ALi ` 
 
  ### `-->>`   ❤️  A passionate Coder... ❤️❤️Stay With Code❤️❤️
 
 
 
 
- ### `-->>`  👨‍🔬 I Have A Good Experience In `Data Science , ML, DL,NLP And Computer Vision Projects `
+ ### `-->>`  👨‍🔬 I have a Good Experties  in `Data Science , ML, DL,NLP And Computer Vision Projects `
 
 
 
