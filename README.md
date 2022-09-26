@@ -19,7 +19,7 @@
 
 
 
-###  👨‍💻 You can Visit my Github Repo , I publish` Machine Learning and Computer vision Projects` with Detailed Expalantion and With High Quality and understandable Code
+### 👨‍💻  You can Visit my Github Repo , I publish` Machine Learning and Computer vision Projects` with Detailed Expalantion and With High Quality and understandable Code
 
 
 
