@@ -27,8 +27,9 @@
 
 ### `-->>`  💞️My passion in data Science Feild Makes me confident to collaborate in any Projects or with youtub Channel  ` regarding to my Expertise `
 
-
-# Connect with me:  https://www.linkedin.com/feed/
+# Connect with me:
+# LInkedIn:  https://www.linkedin.com/feed/
+# youtub: https://studio.youtube.com/channel/UCblHis9vUUCdx5VKNq3hDSg/editing/images
 
 
 
