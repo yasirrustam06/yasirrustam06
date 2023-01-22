@@ -29,7 +29,7 @@
 
 ### Connect with me:
 ### LInkedIn:  https://www.linkedin.com/feed/
-### youtub: https://studio.youtube.com/channel/UCblHis9vUUCdx5VKNq3hDSg/editing/images
+### youtub: https://www.youtube.com/channel/UCDTpeI7tkSctedh1IXVZaRw
 
 
 
