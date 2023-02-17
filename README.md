@@ -29,6 +29,7 @@
 
 ### Connect with me:
 ### LInkedIn:  https://www.linkedin.com/feed/
+## you can find the intresting projects on my youtube channel
 ### youtub: https://www.youtube.com/channel/UCDTpeI7tkSctedh1IXVZaRw
 
 
