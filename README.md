@@ -1,16 +1,13 @@
-# 🚀 Yasir Ali  
-**AI & Computer Vision Engineer | LLMs | NLP | Deep Learning**  
+ 
 
 ## **👨‍💻 About Me**  
 👋 Hi! I'm **Yasir Ali**, an AI Engineer passionate about **building intelligent systems** using Machine Learning, NLP, and Computer Vision.  
 💡 Specializing in **AI chatbots, LLM applications, document processing, and real-time AI solutions**.  
 
----
-
 ## **🌐 Socials**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasir789798/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yasirrustam06)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCDTpeI7tkSctedh1IXVZaRw)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasir789798/)   [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yasirrustam06)  [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCDTpeI7tkSctedh1IXVZaRw)  
+
+
 
 ---
 
